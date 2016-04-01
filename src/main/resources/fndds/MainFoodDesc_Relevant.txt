@@ -1,0 +1,86 @@
+11111000^01/01/2009^12/31/2010^~Milk, cow's, fluid, whole~^
+11411100^01/01/2009^12/31/2010^~Yogurt, plain, whole milk~^
+12130100^01/01/2009^12/31/2010^~Cream, heavy, fluid~^
+14010100^01/01/2009^12/31/2010^~Cheese, Cheddar or American type, NS as to natural or processed~^
+14103010^01/01/2009^12/31/2010^~Cheese, Camembert~^
+14104400^01/01/2009^12/31/2010^~Cheese, Feta~^
+14105010^01/01/2009^12/31/2010^~Cheese, Gouda or Edam~^
+14107020^01/01/2009^12/31/2010^~Cheese, Mozzarella, whole milk~^
+20000200^01/01/2009^12/31/2010^~Ground meat, NFS~^
+21101000^01/01/2009^12/31/2010^~Beef steak, NS as to cooking method, NS as to fat eaten~^
+22101000^01/01/2009^12/31/2010^~Pork chop, NS as to cooking method, NS as to fat eaten~^
+24120100^01/01/2009^12/31/2010^~Chicken, breast, NS as to cooking method, NS as to skin eaten~^
+24130200^01/01/2009^12/31/2010^~Chicken, leg (drumstick and thigh), NS as to cooking method, NS as to skin eaten~^
+24160100^01/01/2009^12/31/2010^~Chicken, wing, NS as to cooking method, NS as to skin eaten~^
+25210110^01/01/2009^12/31/2010^~Frankfurter, wiener, or hot dog, NFS~^
+26100100^01/01/2009^12/31/2010^~Fish, NS as to type, raw~^
+26137100^01/01/2009^12/31/2010^~Salmon, raw~^
+26119100^01/01/2009^12/31/2010^~Herring, raw~^
+31105000^01/01/2009^12/31/2010^~Egg, whole, fried~^
+32104900^01/01/2009^12/31/2010^~Egg omelet or scrambled egg, NS as to fat added in cooking~^
+41106000^01/01/2009^12/31/2010^~Red kidney beans, dry, cooked, NS as to fat added in cooking~^
+41101100^01/01/2009^12/31/2010^~White beans, dry, cooked, NS as to fat added in cooking~^
+41201010^01/01/2009^12/31/2010^~Baked beans, NFS~^
+41302000^01/01/2009^12/31/2010^~Chickpeas, dry, cooked, NS as to fat added in cooking~^
+42100100^01/01/2009^12/31/2010^~Almonds, NFS~^
+42104000^01/01/2009^12/31/2010^~Cashew nuts, NFS~^
+42111000^01/01/2009^12/31/2010^~Peanuts, NFS~^
+43103000^01/01/2009^12/31/2010^~Sesame seeds~^
+51101000^01/01/2009^12/31/2010^~Bread, white~^
+51150000^01/01/2009^12/31/2010^~Roll, white, soft~^
+51185000^01/01/2009^12/31/2010^~Croutons~^
+51201010^01/01/2009^12/31/2010^~Bread, whole wheat, 100%~^
+51220000^01/01/2009^12/31/2010^~Roll, whole wheat, 100%~^
+56101000^01/01/2009^12/31/2010^~Macaroni, cooked, NS as to fat added in cooking~^
+56130000^01/01/2009^12/31/2010^~Spaghetti, cooked, NS as to fat added in cooking~^
+56205010^01/01/2009^12/31/2010^~Rice, white, cooked, regular, fat not added in cooking~^
+56207110^01/01/2009^12/31/2010^~Bulgur, cooked or canned, fat not added in cooking~^
+56207150^01/01/2009^12/31/2010^~Couscous, plain, cooked, fat not added in cooking~^
+57134000^01/01/2009^12/31/2010^~Corn flakes, NFS~^
+61113010^01/01/2009^12/31/2010^~Lemon, raw~^
+61116010^01/01/2009^12/31/2010^~Lime, raw~^
+61119010^01/01/2009^12/31/2010^~Orange, raw~^
+61210000^01/01/2009^12/31/2010^~Orange juice, NFS~^
+61204000^01/01/2009^12/31/2010^~Lemon juice, NS as to form~^
+63101000^01/01/2009^12/31/2010^~Apple, raw~^
+63105010^01/01/2009^12/31/2010^~Avocado, raw~^
+63107010^01/01/2009^12/31/2010^~Banana, raw~^
+63113010^01/01/2009^12/31/2010^~Cherries, sour, red, raw~^
+63135010^01/01/2009^12/31/2010^~Peach, raw~^
+63141010^01/01/2009^12/31/2010^~Pineapple, raw~^
+63147010^01/01/2009^12/31/2010^~Rhubarb, raw~^
+63200100^01/01/2009^12/31/2010^~Berries, raw, NFS~^
+71000100^01/01/2009^12/31/2010^~White potato, NFS~^
+71401020^01/01/2009^12/31/2010^~White potato, french fries, from frozen, oven baked~^
+72125100^01/01/2009^12/31/2010^~Spinach, raw~^
+72124100^01/01/2009^12/31/2010^~Radicchio, raw~^
+72201100^01/01/2009^12/31/2010^~Broccoli, raw~^
+73101010^01/01/2009^12/31/2010^~Carrots, raw~^
+73401000^01/01/2009^12/31/2010^~Sweetpotato, NFS~^
+74101000^01/01/2009^12/31/2010^~Tomatoes, raw~^
+75102500^01/01/2009^12/31/2010^~Beets, raw~^
+75107000^01/01/2009^12/31/2010^~Cauliflower, raw~^
+75109000^01/01/2009^12/31/2010^~Celery, raw~^
+75109600^01/01/2009^12/31/2010^~Corn, raw~^
+75111000^01/01/2009^12/31/2010^~Cucumber, raw~^
+75111500^01/01/2009^12/31/2010^~Garlic, raw~^
+75113000^01/01/2009^12/31/2010^~Lettuce, raw~^
+75115000^01/01/2009^12/31/2010^~Mushrooms, raw~^
+75117020^01/01/2009^12/31/2010^~Onions, mature, raw~^
+75119000^01/01/2009^12/31/2010^~Parsley, raw~^
+75202000^01/01/2009^12/31/2010^~Asparagus, cooked, NS as to form, NS as to fat added in cooking~^
+75203000^01/01/2009^12/31/2010^~Bamboo shoots, cooked, fat not added in cooking~^
+75506100^01/01/2009^12/31/2010^~Mustard sauce~^
+75510010^01/01/2009^12/31/2010^~Olives, green~^
+75510020^01/01/2009^12/31/2010^~Olives, black~^
+81100500^01/01/2009^12/31/2010^~Butter, NFS~^
+81102000^01/01/2009^12/31/2010^~Margarine, NFS~^
+82104000^01/01/2009^12/31/2010^~Olive oil~^
+82107000^01/01/2009^12/31/2010^~Sesame oil~^
+82108500^01/01/2009^12/31/2010^~Sunflower oil~^
+83107000^01/01/2009^12/31/2010^~Mayonnaise, regular~^
+91101000^01/01/2009^12/31/2010^~Sugar, NFS~^
+91404000^01/01/2009^12/31/2010^~Marmalade, all flavors~^
+93401010^01/01/2009^12/31/2010^~Wine, table, red~^
+93401020^01/01/2009^12/31/2010^~Wine, table, white~^
+94000000^01/01/2009^12/31/2010^~Water as an ingredient~^
